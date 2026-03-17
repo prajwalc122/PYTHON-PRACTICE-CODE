@@ -4,5 +4,5 @@ def user(name="prajuuu"):
 user("prajwal")
 user("ninja")
 user("rabada")
-user()
+user()                                  #some body says you cant give an calling function how it had bcz i give in the above default value i give in above that name is called as prajju 
 user("noikoi")
